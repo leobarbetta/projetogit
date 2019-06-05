@@ -1,5 +1,5 @@
 public class Produto
 {
 	string texto;
-	string outroTexto
+	string texto2
 }
