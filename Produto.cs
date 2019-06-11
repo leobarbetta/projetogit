@@ -14,4 +14,6 @@ public class Produto
 	string var4
 	string var5
 	string var6
+	string var7
+	string var8
 }
