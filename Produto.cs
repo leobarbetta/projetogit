@@ -1,5 +1,6 @@
 public class Produto
 {
+	string teeeste
 	string texto;
 	string texto2
 	string texto3
