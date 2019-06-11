@@ -8,4 +8,6 @@ public class Produto
 	string algumaCoisa
 	string teste
 	string outroTeste
+	string var1
+	string var2
 }
